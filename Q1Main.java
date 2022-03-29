@@ -13,9 +13,9 @@ public class Q1Main {
             d+=q1.getRandomCharacter();
         }
 
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(d);
+        System.out.println("Q1.1:"+a);
+        System.out.println("Q1.2:"+b);
+        System.out.println("Q1.3:"+c);
+        System.out.println("Q1.4:"+d);
     }
 }
